@@ -1,0 +1,11 @@
+$ mv ~/Downloads/vault-cluster-vault-2025-07-26T18_32_14.304Z.json ~/.config/vault/keys.json
+$ more ~/.config/vault/keys.json
+{
+  "keys": [
+    "<A 64-CHARACTER HEX STRING>"
+  ],
+  "keys_base64": [
+    "<THE BASE64 ENCODING OF THE KEY>"
+  ],
+  "root_token": "<ANOTHER BASE64-ENCODED TOKEN>"
+}
