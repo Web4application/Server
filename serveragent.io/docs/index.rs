@@ -81,7 +81,7 @@ The open protocol that connects AI applications to the systems where context liv
         <div className="stat-label">Compatible Clients</div>
       </a>
 
-      <a href="https://github.com/modelcontextprotocol/servers?tab=readme-ov-file#%EF%B8%8F-official-integrations" target="_blank" rel="noopener noreferrer" className="stat-card">
+      <a href="https://github.com/serveragent.io/servers?tab=readme-ov-file#%EF%B8%8F-official-integrations" target="_blank" rel="noopener noreferrer" className="stat-card">
         <div className="stat-number">1000+</div>
         <div className="stat-label">Available Servers</div>
       </a>
